@@ -1,0 +1,53 @@
+body {
+    background-color:rgb(155, 214, 224);
+}
+h1 {
+    color:black;
+    background-color:rgb(23, 78, 151);
+    font-size: 35px;
+    font-family: Times;
+    text-align: center;
+    border-radius: 20px;
+    border: 3px solid black;
+}
+p {
+      color: rgb(34, 34, 34);
+      text-align: center;
+      padding: 3px;
+      font-size: 20px;
+}
+label {
+       color: rgb(0, 0, 0);
+       font-size: 18px;
+       font-family: Arial;
+}
+
+#cadastrof {
+        background-color:rgb(224, 222, 222);
+        color:black;
+        border: 1px;
+        
+}
+
+input {
+        border: 1px solid black;
+
+}
+select {
+        border: 1px solid black; 
+
+
+}
+#Cadastrados {
+        position:relative; 
+        left: 50px;
+        background-color:rgb(224, 222, 222);
+        color:black;
+
+}
+
+#eqp {
+        border: 3px;
+        color: black;
+        background-color: rgb(224, 222, 222);
+}
